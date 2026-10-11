@@ -1,28 +1,21 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Studio Mono-tone VPM Listing",
+    "id":"mono-tone.listing",
+    "url":"https://nekonoyun.github.io/mono-vrc-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"51334430+nekonoyun@users.noreply.github.com",
+        "name":"Studio Mono-tone",
+        "url":"https://github.com/nekonoyun"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of Studio Mono-tone VRC Scripts",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/nekonoyun/mono-vrc-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "nekonoyun/Mono_ChipsPhone"
     ],
     "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
     ]
 }
